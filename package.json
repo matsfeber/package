@@ -2,7 +2,7 @@
 "name":"censor",
 "version": "1.0.0",
 "main":"index.js",
-"description":"Turns vowels into grawlix",
+"description":"censor cursewords",
 "keywords": [
 "grawlix",
 "cencor",
